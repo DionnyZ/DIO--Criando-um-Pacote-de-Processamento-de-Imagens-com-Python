@@ -1,8 +1,12 @@
+# Criando um Pacote de Processamento de Imagens com Python
+
+O objetivo desse projeto foi criar um pacote Python e publicar no PyPI. Como módulo do pacote, foi utilizado um projeto feito anteriormente que descolore imagens.
+
 # Monochrome Dionny
 Esse pacote permite transformar as cores de uma imagem em tons de cinza ou binarizadas em preto e branco.
 
 ## Descrição
-O objetivo da criação desse pacote foi para experiênciar e aprender a como utilizar o Pypi.
+O objetivo da criação desse pacote foi para experiênciar e aprender a como utilizar o PyPI.
 
 O pacote contem duas funções:
  - Acinzentar imagem: Transforma as cores da imagem em tons de cinza
